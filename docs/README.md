@@ -75,6 +75,7 @@ If you would like to sell your product officially, please send a [Direct message
 | Htmx         | <img src="../Htmx/htmx.png" width="100" /> |
 | IamSeries    | <img src="../IamSeries/IamDesigner%21.png" width="100" /> <img src="../IamSeries/IamDesigner%21English.png" width="100" /> <img src="../IamSeries/IamProgrammer%21.png" width="100" /> <img src="../IamSeries/IamProgrammerEnglish.png" width="100" /> |
 | Java         | <img src="../Java/Java.png" width="100" /> |
+| JavaScript   | <img src="../JavaScript/JavaScript.png" width="100" /> |
 | Juniper      | <img src="../Juniper/Juniper.png" width="100" /> |
 | Kotlin       | <img src="../Kotlin/Kotlin.png" width="100" /> <img src="../Kotlin/Kotlin_New.png" width="100" /> |
 | Laravel      | <img src="../Laravel/Laravel.png" width="100" /> |
